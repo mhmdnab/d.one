@@ -1,4 +1,3 @@
-// @ts-ignore
 "use client";
 
 import ProductDetail from "@/components/ProductDetail";
